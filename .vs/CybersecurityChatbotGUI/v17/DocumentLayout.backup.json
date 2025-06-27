@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\chatbotlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|solutionrelative:chatbotlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\st10371850_cyberchatbotgui\\cybersecuritychatbotgui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\assets\\greeting.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9DC93CA8-2289-44E8-8F48-213E6239F101}|CybersecurityChatbotGUI.csproj|solutionrelative:assets\\greeting.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:04:42.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIgAAAAAAwAAAIArwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:58:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:55:53.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatbotLogic.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\ChatbotLogic.cs",
+              "RelativeDocumentMoniker": "ChatbotLogic.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\ChatbotLogic.cs",
+              "RelativeToolTip": "ChatbotLogic.cs",
+              "ViewState": "AgIAAHICAACAKzMzM7MdwCEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:55:44.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "greeting.wav",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Assets\\greeting.wav",
+              "RelativeDocumentMoniker": "Assets\\greeting.wav",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Assets\\greeting.wav",
+              "RelativeToolTip": "Assets\\greeting.wav",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALeSURBVDhPrZPNT1NpFIef296Xy9wLyNRaqBYxmtYiNMBiGklIXExijDsXlpXxDyDzJzhbN8awMrLRzILlLAyJM\u002BNMMplESJQ4mBS/aEZtwbSkpUBKW/Devq8LAftxMTPJ/JKTvB/nPPd38t4D/6eUUtr\u002B2ufzBYLBYH9jRqu2trbWc7lcxnEcp/muQYlEYjKVSsmVlRWZyWRc4/27d7WZmZm5eDx\u002BQdO0AzOumpiYmCwWi/JrqlYqcmlpyZ6dnZ2PxWLxZgaAp/lAKXV4fE7xjo2NxX\u002B6f/9eLBb7rrm\u002BBeimB8kNpv5YxZFQKpVIp9Oeb48ePffjjRvTHR0dp\u002BtzXYHNznK7cPNllUf5GidPncI0TdbX1wn19QWFEINA235tA1C5wJRSdJteIj7BnaU8WWUSiUQYHh7G7/d7vLpuAcIVuIdsiU3bJmrscPFIG3\u002BltpGytneH5ml67UagAuUSnQZ88Owy0G2iHO3g3E1NwC9t7tiS39\u002BW\u002BeHPIlNJyaDRwetciTZvbS/VnXhoywvZXRK/bDD9psyz1QrbZYfvT3dydbC7Lq9VjY\u002BiQEmFUiC8Euubj/Bxh7atEuc72xkMWfi7jf/QMhx8/ZxP8POlY/x25QQPr/WRGD\u002BORwMpJUrJQx169xdDQ0Nx27YvCyGYm5vjn9QyemWDkKlxxm9ye\u002BoWwWAvL168pFAoYBiCu3enK38vLv5aKZffADbNDgOBAKurH0inM6ytrVGr1TBNk4WFBcLhMMlkklAoRKFQ4MmTp4yMjLQ4bQD2959keXmZQCBAV1cX5fI2QgieP1/EsiyKxSLt7Qb5fJ5Xr14TjUbrywHQ6ze9vb2cPRshHI5QrVZRSiKEYHx8nHA4QjabxTAMRkdH2dzcxLIsvB5vg6mDv7ynpyc6MDBwXSnl0XXdkp/HAU3TUEqh6zqO47A/GEoppJTO/Pz8I9u2HwPlBuCejgDt9cP\u002BL1QFNoAawCe8\u002BJmjx\u002BeU1gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-27T09:52:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10371850_CyberChatBotGUI\\CybersecurityChatbotGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:34:59.983Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
